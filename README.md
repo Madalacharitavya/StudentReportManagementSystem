@@ -14,3 +14,9 @@ This is a C++ program that manages student records using file handling. Let's go
 12. The `intro()` function displays a simple introductory screen.
 13. The `entry_menu()` function presents a sub-menu for entry/edit operations. It allows the user to choose between creating a student record, displaying all records, searching for a specific record, modifying a record, deleting a record, or going back to the main menu.
 That's the overview of the program. It provides basic functionality to manage student records using file handling in C++.
+
+![cherry1](https://github.com/Madalacharitavya/StudentReportManagementSystem/assets/102969979/8c92483e-41b1-4a50-b8a5-0df3366acdb6)
+![cherry2](https://github.com/Madalacharitavya/StudentReportManagementSystem/assets/102969979/a31b66fb-2727-414e-ac1a-537063506965)
+![cherry3](https://github.com/Madalacharitavya/StudentReportManagementSystem/assets/102969979/bf748968-076c-4d6c-8464-3fa38e4c52e6)
+![cherry4](https://github.com/Madalacharitavya/StudentReportManagementSystem/assets/102969979/8cd9b540-0b83-4e8f-b4f6-0c075f9508b6)
+
