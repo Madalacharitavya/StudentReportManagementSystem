@@ -20,3 +20,10 @@ That's the overview of the program. It provides basic functionality to manage st
 ![cherry3](https://github.com/Madalacharitavya/StudentReportManagementSystem/assets/102969979/bf748968-076c-4d6c-8464-3fa38e4c52e6)
 ![cherry4](https://github.com/Madalacharitavya/StudentReportManagementSystem/assets/102969979/8cd9b540-0b83-4e8f-b4f6-0c075f9508b6)
 
+## Contributing
+
+Contributions are welcome! Feel free to open issues or pull requests.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
